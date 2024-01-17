@@ -1,6 +1,6 @@
 ## Hi there 👋
 **Здесь были разработчики xLimbow, Roman123**
- 1._Задача была выполнена ПР2_
+1._Задача была выполнена ПР2_
 <!--
 
 **Here are some ideas to get you started:**
